@@ -1,10 +1,8 @@
 applications:
 - disk_quota: 512M
-  host: spring-mvc-showcase
-  name: spring-mvc-showcase
+  host: spring-mvc-showcase-asd
+  name: spring-mvc-showcase-asd
   path: spring-mvc-showcase.war
   domain: mybluemix.net
   instances: 1
   memory: 512M
-  #IBM_JVM_LICENSE: L-JWOD-9NXJQY
-  JBP_CONFIG_IBMJDK "version: 1.8.+"

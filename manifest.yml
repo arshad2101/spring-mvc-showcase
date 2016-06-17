@@ -6,4 +6,5 @@ applications:
   domain: mybluemix.net
   instances: 1
   memory: 512M
-  IBM_JVM_LICENSE: L-JWOD-9NXJQY
+  #IBM_JVM_LICENSE: L-JWOD-9NXJQY
+  JBP_CONFIG_IBMJDK "version: 1.8.+"
